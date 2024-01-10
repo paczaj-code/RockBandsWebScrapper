@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockBandsWebScrapper.Server", "ReactApp1.Server\RockBandsWebScrapper.Server.csproj", "{60CF87A8-05F6-4002-A56F-67A6760962D0}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "RockBandsWebScrapper.client", "reactapp1.client\RockBandsWebScrapper.client.esproj", "{2A0E231F-3B9B-4EC2-8A86-D1BC71A9410B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60CF87A8-05F6-4002-A56F-67A6760962D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CF87A8-05F6-4002-A56F-67A6760962D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CF87A8-05F6-4002-A56F-67A6760962D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CF87A8-05F6-4002-A56F-67A6760962D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0E231F-3B9B-4EC2-8A86-D1BC71A9410B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0E231F-3B9B-4EC2-8A86-D1BC71A9410B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0E231F-3B9B-4EC2-8A86-D1BC71A9410B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2A0E231F-3B9B-4EC2-8A86-D1BC71A9410B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0E231F-3B9B-4EC2-8A86-D1BC71A9410B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0E231F-3B9B-4EC2-8A86-D1BC71A9410B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF36BCB3-3EC8-411F-B4C5-AC60556AE152}
+	EndGlobalSection
+EndGlobal
